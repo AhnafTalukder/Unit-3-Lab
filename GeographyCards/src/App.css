@@ -1,0 +1,32 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+   
+    display: flex;
+    justify-content: center;
+   
+}
+
+.card-container{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bot-container{
+    margin: 40px;
+    background-color: #d5e639;
+    border-radius: 10px 10px 10px 10px;
+    height: 600px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  
+}
